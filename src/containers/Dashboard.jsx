@@ -1,10 +1,10 @@
 import React from 'react'
-import SchemaView from '../components/SchemaView'
-
+import SchemaQueriesView from '../components/SchemaQueriesView'
 const Dashboard = () => {
+
   return (
     <div>
-        <SchemaView/>
+      <SchemaQueriesView/>
     </div>
   )
 }
